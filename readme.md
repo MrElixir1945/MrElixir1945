@@ -1,5 +1,9 @@
 <div align="center">
 
+![MR ELIXIR](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=MR+ELIXIR)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hacker+%7C+Builder+%7C+Tinkerer;ESP32+%7C+Telegram+Bots+%7C+IoT;%5BACCESS+GRANTED%5D)
+
 ---
 
 ### 🐧 Operating Systems
@@ -43,6 +47,6 @@
 
 ---
 
-# ⚡ "The quieter you become, the more you can hear." — `rm -rf /doubts`
+### ⚡ "Tulis quotes lu di sini"
 
 </div>
