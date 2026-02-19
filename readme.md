@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MR%20ELIXIR&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=root%40mrElixir%3A~%23%20_&descAlignY=65&descSize=18&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=160&section=header&text=MrElixir&fontSize=72&fontColor=e2e8f0&fontAlignY=45&desc=root%40mrElixir%3A~%23%20_&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Hacker+%7C+Builder+%7C+Tinkerer;ESP32+%7C+Telegram+Bots+%7C+IoT;%5BACCESS+GRANTED%5D)
 
@@ -14,6 +14,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,5 +50,5 @@
 <div align="center">
 <sub>⚡ "The quieter you become, the more you can hear." — <code>rm -rf /doubts</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
 </div>
