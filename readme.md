@@ -62,11 +62,9 @@
 
 ---
 
-### 🏠 Homelab & Hacker Space
+### 🏠 Homelab
 
-*Personal infrastructure for cybersecurity research, penetration testing & IoT development.*
-
-📂 **[Explore the Homelab →](https://github.com/MrElixir1945/MrElixir-Homelab)**
+📂 **[Explore my Homelab →](https://github.com/MrElixir1945/MrElixir-Homelab)**
 
 ---
 
