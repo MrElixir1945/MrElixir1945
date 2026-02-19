@@ -1,14 +1,4 @@
-<!-- Matrix rain header -->
 <div align="center">
-
-███╗   ███╗ ██████╗     ███████╗ ██╗      ██╗ ██╗  ██╗ ██╗ ██████╗
-████╗ ████║ ██╔══██╗    ██╔════╝ ██║      ██║ ╚██╗██╔╝ ██║ ██╔══██╗
-██╔████╔██║ ██████╔╝    █████╗   ██║      ██║  ╚███╔╝  ██║ ██████╔╝
-██║╚██╔╝██║ ██╔══██╗    ██╔══╝   ██║      ██║  ██╔██╗  ██║ ██╔══██╗
-██║ ╚═╝ ██║ ██║  ██║    ███████╗ ███████╗ ██║ ██╔╝ ██╗ ██║ ██║  ██║
-╚═╝     ╚═╝ ╚═╝  ╚═╝    ╚══════╝ ╚══════╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40mrElixir%3A~%23+whoami;Hacker+%7C+Builder+%7C+Tinkerer;ESP32+%7C+Telegram+Bots+%7C+IoT;%5BACCESS+GRANTED%5D)
 
 ---
 
@@ -17,16 +7,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚡ Hardware & IoT
 
@@ -55,6 +43,6 @@
 
 ---
 
-## ⚡ "The quieter you become, the more you can hear." — `rm -rf /doubts`
+# ⚡ "The quieter you become, the more you can hear." — `rm -rf /doubts`
 
 </div>
