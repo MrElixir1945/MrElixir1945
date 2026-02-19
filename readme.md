@@ -64,7 +64,7 @@
 
 ### 🏠 Homelab & Hacker Space
 
-> Personal infrastructure for cybersecurity research, penetration testing & IoT development.
+*Personal infrastructure for cybersecurity research, penetration testing & IoT development.*
 
 📂 **[Explore the Homelab →](https://github.com/MrElixir1945/MrElixir-Homelab)**
 
