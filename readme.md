@@ -12,6 +12,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40mrElixir%3A~%23+whoami;Hacker+%7C+Builder+%7C+Tinkerer;ESP32+%7C+Telegram+Bots+%7C+IoT;%5BACCESS+GRANTED%5D)
 
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
 </div>
 
 ---
@@ -41,29 +48,7 @@ tools     = Telegram Bot API, BLE HID
 
 ---
 
-## `> ls ./projects`
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| 🔴 [GhostGrab](https://github.com/MrElixir1945/GhostGrab) | Download TikTok/IG/YT without watermark via Telegram | Python |
-| 🟠 [ConverterFile](https://github.com/MrElixir1945/ConverterFile) | PDF/Word/Image compressor via Telegram bot | Python |
-| 🟡 [Smart-Lamp-Telegram-ESP32](https://github.com/MrElixir1945/Smart-Lamp-Telegram-ESP32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
-| 🟢 [CashFlow-MrElixir-Wallet](https://github.com/MrElixir1945/CashFlow-MrElixir-Wallet) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
-| 🔵 [Bad-Bluetooth-Esp32](https://github.com/MrElixir1945/Bad-Bluetooth-Esp32) | BLE HID Injection via ESP32 — security awareness | C++ |
-| 🟣 [EcoBot](https://github.com/MrElixir1945/EcoBot-My-First-Competition) | AI chatbot for carbon emission education | Python |
-
----
-
-## `> cat tech_stack.txt`
-
 <div align="center">
-
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,6 +68,20 @@ tools     = Telegram Bot API, BLE HID
 
 </div>
 
+---
+
+## `> ls ./projects`
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| 🔴 [GhostGrab](https://github.com/MrElixir1945/GhostGrab) | Download TikTok/IG/YT without watermark via Telegram | Python |
+| 🟠 [ConverterFile](https://github.com/MrElixir1945/ConverterFile) | PDF/Word/Image compressor via Telegram bot | Python |
+| 🟡 [Smart-Lamp-Telegram-ESP32](https://github.com/MrElixir1945/Smart-Lamp-Telegram-ESP32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
+| 🟢 [CashFlow-MrElixir-Wallet](https://github.com/MrElixir1945/CashFlow-MrElixir-Wallet) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
+| 🔵 [Bad-Bluetooth-Esp32](https://github.com/MrElixir1945/Bad-Bluetooth-Esp32) | BLE HID Injection via ESP32 — security awareness | C++ |
+| 🟣 [EcoBot](https://github.com/MrElixir1945/EcoBot-My-First-Competition) | AI chatbot for carbon emission education | Python |
+
+---
 
 <div align="center">
 <sub>⚡ "The quieter you become, the more you can hear." — rm -rf /doubts</sub>
