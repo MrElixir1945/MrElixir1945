@@ -55,6 +55,6 @@
 
 ---
 
-# ⚡ "The quieter you become, the more you can hear." — `rm -rf /doubts`
+## ⚡ "The quieter you become, the more you can hear." — `rm -rf /doubts`
 
 </div>
