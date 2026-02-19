@@ -2,12 +2,12 @@
 <div align="center">
 
 ```
-███╗   ███╗██████╗ ███████╗██╗     ██╗██╗  ██╗██╗██████╗
-████╗ ████║██╔══██╗██╔════╝██║     ██║╚██╗██╔╝██║██╔══██╗
-██╔████╔██║██████╔╝█████╗  ██║     ██║ ╚███╔╝ ██║██████╔╝
-██║╚██╔╝██║██╔══██╗██╔══╝  ██║     ██║ ██╔██╗ ██║██╔══██╗
-██║ ╚═╝ ██║██║  ██║███████╗███████╗██║██╔╝ ██╗██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+███╗   ███╗ ██████╗     ███████╗ ██╗      ██╗ ██╗  ██╗ ██╗ ██████╗
+████╗ ████║ ██╔══██╗    ██╔════╝ ██║      ██║ ╚██╗██╔╝ ██║ ██╔══██╗
+██╔████╔██║ ██████╔╝    █████╗   ██║      ██║  ╚███╔╝  ██║ ██████╔╝
+██║╚██╔╝██║ ██╔══██╗    ██╔══╝   ██║      ██║  ██╔██╗  ██║ ██╔══██╗
+██║ ╚═╝ ██║ ██║  ██║    ███████╗ ███████╗ ██║ ██╔╝ ██╗ ██║ ██║  ██║
+╚═╝     ╚═╝ ╚═╝  ╚═╝    ╚══════╝ ╚══════╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40mrElixir%3A~%23+whoami;Hacker+%7C+Builder+%7C+Tinkerer;ESP32+%7C+Telegram+Bots+%7C+IoT;%5BACCESS+GRANTED%5D)
@@ -83,37 +83,6 @@ tools     = Telegram Bot API, BLE HID
 
 </div>
 
----
-
-## `> neofetch --stats`
-
-<div align="center">
-
-![MrElixir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrElixir1945&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrElixir1945&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)
-
-</div>
-
----
-
-## `> ping mrElixir`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MrElixir1945-181717?style=for-the-badge&logo=github)](https://github.com/MrElixir1945)
-
-```
-PING mrElixir... response received ✓
-[STATUS]: Online and building stuff
-[UPTIME]: 24/7
-```
-
-![Visitor Badge](https://visitor-badge.lalokalabs.co/vis?page_id=MrElixir1945.MrElixir1945)
-
-</div>
-
----
 
 <div align="center">
 <sub>⚡ "The quieter you become, the more you can hear." — rm -rf /doubts</sub>
