@@ -53,6 +53,6 @@
 
 ---
 
-### ⚡ "Tulis quotes lu di sini"
+### ⚡ "Automation is efficiency applied with intention."
 
 </div>
