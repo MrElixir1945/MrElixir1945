@@ -53,6 +53,6 @@
 
 ---
 
-### ⚡ "Automation is efficiency applied with intention."
+### 🚀 "We build technology to make life easier."
 
 </div>
