@@ -67,7 +67,7 @@
 | 📡 [Bad-Bluetooth-Esp32](https://github.com/MrElixir1945/Bad-Bluetooth-Esp32) | BLE HID Injection via ESP32 — security awareness | C++ |
 | 🌱 [EcoBot](https://github.com/MrElixir1945/EcoBot-My-First-Competition) | AI chatbot for carbon emission education | Python |
 | ⚡ [Flashrun](https://github.com/MrElixir1945/Flashrun) | Automate launching apps & browsers via single shortcut | Bash, Batch |
-| ⌨️ [AlwaysTypo.](https://github.com/MrElixir1945/always-typo) | Typing speed test minimalis | HTML, CSS, JS |
+| ⌨️ [AlwaysTypo](https://github.com/MrElixir1945/always-typo) | Typing speed test minimalis | HTML, CSS, JS |
 
 
 ---
