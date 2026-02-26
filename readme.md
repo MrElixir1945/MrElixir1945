@@ -72,6 +72,7 @@
 | 🌱 [EcoBot](https://github.com/MrElixir1945/EcoBot-My-First-Competition) | AI chatbot for carbon emission education | Python |
 | ⚡ [Flashrun](https://github.com/MrElixir1945/Flashrun) | Automate launching apps & browsers via single shortcut | Bash, Batch |
 | ⌨️ [AlwaysTypo](https://github.com/MrElixir1945/always-typo) | Typing speed test minimalis | HTML, CSS, JS |
+| 📦 [mkproject](https://github.com/MrElixir1945/mkproject) | Scaffold struktur folder project dari blueprint teks | Python |
 
 
 ---
