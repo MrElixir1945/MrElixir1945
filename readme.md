@@ -43,11 +43,11 @@
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### 🔐 Cybersecurity & Networking
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=scrutinizer&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logoColor=white)
 
 ### 🎮 Gaming
-![Honkai Star Rail](https://img.shields.io/badge/Honkai_Star_Rail-8B5CF6?style=for-the-badge&logo=honkai-star-rail&logoColor=white)
+![Honkai Star Rail](https://img.shields.io/badge/Honkai_Star_Rail-8B5CF6?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🤖 AI Tools
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
