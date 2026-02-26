@@ -53,8 +53,8 @@
 ![DeepSeek](https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-FFFFFF?style=for-the-badge&logo=windsurf&logoColor=000000)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge&logo=sparkles&logoColor=white)
 
 
 ---
