@@ -54,7 +54,8 @@
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-FFFFFF?style=for-the-badge&logo=windsurf&logoColor=000000)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge&logo=sparkles&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 
 
 ---
