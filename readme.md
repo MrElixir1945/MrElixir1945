@@ -45,6 +45,12 @@
 
 ---
 
+### 🏠 Homelab
+
+📂 **[Explore my Homelab →](https://github.com/MrElixir1945/MrElixir-Homelab)**
+
+---
+
 ## > ls ./projects
 
 | Repo | Description | Stack |
@@ -62,11 +68,7 @@
 
 ---
 
-### 🏠 Homelab
 
-📂 **[Explore my Homelab →](https://github.com/MrElixir1945/MrElixir-Homelab)**
-
----
 
 ### 🚀 "We build technology to make life easier."
 
