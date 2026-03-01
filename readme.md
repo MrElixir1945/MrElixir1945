@@ -54,7 +54,7 @@
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| 👻 [GhostMedia](https://github.com/MrElixir1945/GhostMedia) | Download TikTok/IG/YT without watermark via Telegram | Python |
+| 👾 [GhostMedia](https://github.com/MrElixir1945/GhostMedia) | Download TikTok/IG/YT without watermark via Telegram | Python |
 | 🔄 [GhostConverter](https://github.com/MrElixir1945/GhostConverter) | PDF/Word/Image compressor via Telegram bot | Python |
 | 💡 [SmartLamp](https://github.com/MrElixir1945/SmartLamp-Esp32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
 | 💳 [CashFlow](https://github.com/MrElixir1945/CashFlow) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
