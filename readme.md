@@ -54,16 +54,13 @@
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| 📥 [GhostGrab](https://github.com/MrElixir1945/GhostGrab) | Download TikTok/IG/YT without watermark via Telegram | Python |
-| 🔄 [ConverterFile](https://github.com/MrElixir1945/ConverterFile) | PDF/Word/Image compressor via Telegram bot | Python |
-| 💡 [Smart-Lamp-Telegram-ESP32](https://github.com/MrElixir1945/Smart-Lamp-Telegram-ESP32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
-| 💳 [CashFlow-MrElixir-Wallet](https://github.com/MrElixir1945/CashFlow-MrElixir-Wallet) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
-| 📡 [Bad-Bluetooth-Esp32](https://github.com/MrElixir1945/Bad-Bluetooth-Esp32) | BLE HID Injection via ESP32 — security awareness | C++ |
-| 🌱 [EcoBot](https://github.com/MrElixir1945/EcoBot-My-First-Competition) | AI chatbot for carbon emission education | Python |
+| 👻 [GhostMedia](https://github.com/MrElixir1945/GhostMedia) | Download TikTok/IG/YT without watermark via Telegram | Python |
+| 🔄 [GhostConverter](https://github.com/MrElixir1945/GhostConverter) | PDF/Word/Image compressor via Telegram bot | Python |
+| 💡 [SmartLamp](https://github.com/MrElixir1945/SmartLamp-Esp32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
+| 💳 [CashFlow](https://github.com/MrElixir1945/CashFlow) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
+| 🌱 [EcoBot](https://github.com/MrElixir1945/Ecobot) | AI chatbot for carbon emission education | Python |
 | ⚡ [Flashrun](https://github.com/MrElixir1945/Flashrun) | Automate launching apps & browsers via single shortcut | Bash, Batch |
-| ⌨️ [AlwaysTypo](https://github.com/MrElixir1945/always-typo) | Typing speed test minimalis | HTML, CSS, JS |
-| 📦 [mkproject](https://github.com/MrElixir1945/mkproject) | Scaffold struktur folder project dari blueprint teks | Python |
-
+| ⌨️ [AlwaysTypo](https://github.com/MrElixir1945/AlwaysTypo) | Minimalist typing speed test | HTML, CSS, JS |
 
 ---
 
