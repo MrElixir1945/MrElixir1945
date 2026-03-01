@@ -56,11 +56,12 @@
 |------|-------------|-------|
 | 👾 [GhostMedia](https://github.com/MrElixir1945/GhostMedia) | Download TikTok/IG/YT without watermark via Telegram | Python |
 | 🔄 [GhostConverter](https://github.com/MrElixir1945/GhostConverter) | PDF/Word/Image compressor via Telegram bot | Python |
+| ⌨️ [GhostSpeed](https://github.com/MrElixir1945/GhostSpeed) | Minimalist typing speed test | HTML, CSS, JS |
 | 💡 [SmartLamp](https://github.com/MrElixir1945/SmartLamp-Esp32) | Control wall switch remotely via Telegram + ESP32 | Python, C++ |
 | 💳 [CashFlow](https://github.com/MrElixir1945/CashFlow) | Personal finance — Telegram Bot + Flask Dashboard | HTML, Python |
 | 🌱 [EcoBot](https://github.com/MrElixir1945/Ecobot) | AI chatbot for carbon emission education | Python |
 | ⚡ [Flashrun](https://github.com/MrElixir1945/Flashrun) | Automate launching apps & browsers via single shortcut | Bash, Batch |
-| ⌨️ [AlwaysTypo](https://github.com/MrElixir1945/AlwaysTypo) | Minimalist typing speed test | HTML, CSS, JS |
+
 
 ---
 
